@@ -1,107 +1,76 @@
-# Electric-Vehicle-Adoption-Analysis-Dashboard-Tableau
-<b>Overview</b>
+🚗 Electric Vehicle Adoption Analysis Dashboard
+📌 Project Overview
 
-This project presents an interactive dashboard developed to analyze electric vehicle (EV) adoption patterns using structured vehicle data. The dashboard visualizes trends in vehicle growth, manufacturer distribution, vehicle types, and geographic patterns to support data-driven insights.
+This project presents an electric vehicle analysis dashboard developed to evaluate vehicle adoption trends, technology distribution, and geographic patterns using structured vehicle registration data. The dashboard applies data visualization techniques to identify growth trends across model years and support data-driven decision-making in the electric vehicle ecosystem.
 
-The analysis focuses on descriptive analytics using key performance indicators (KPIs) and interactive visualizations.
+🎯 Objectives
 
-<b>Objectives</b>
-
-Analyze electric vehicle adoption trends over time
+Analyze total electric vehicle adoption trends
 Compare Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV)
-Identify top vehicle manufacturers and high-adoption regions
-Evaluate vehicle performance using electric range metrics
-Enable interactive exploration of data through dashboard controls
+Identify top vehicle manufacturers
+Evaluate average electric driving range
+Monitor geographic distribution of electric vehicles
+Support data-driven insights using interactive dashboards
 
-Dataset
+📊 Key Metrics
 
-The dataset includes structured records of electric vehicles with attributes such as:
+Metric	Description
+Total Vehicles	Total number of electric vehicles in the dataset
+Total BEV	Number of Battery Electric Vehicles
+Total PHEV	Number of Plug-in Hybrid Electric Vehicles
+Average Electric Range	Average distance vehicles can travel using battery power
+Top Manufacturers	Manufacturers with the highest number of vehicles
+CAFV Eligibility	Vehicles eligible for clean alternative fuel programs
 
-Vehicle Make and Model
-Model Year
-Electric Vehicle Type (BEV / PHEV)
-Electric Range
-State / Location
-Clean Alternative Fuel Vehicle (CAFV) Eligibility
+📈 Dashboard Features
 
-Data Type: Structured dataset
-Analysis Type: Descriptive analytics
+Electric vehicle growth trend analysis by model year
+Manufacturer performance comparison
+Geographic distribution of vehicles by state
+Clean fuel eligibility distribution analysis
+Interactive filtering by vehicle type, year, and manufacturer
+Dynamic dashboard exploration using parameters
 
-Key Performance Indicators (KPIs)
+🛠️ Tools and Technologies
 
-The dashboard tracks the following metrics:
-
-Total Vehicles — Total number of electric vehicles in the dataset
-Total BEV — Number of Battery Electric Vehicles
-Total PHEV — Number of Plug-in Hybrid Electric Vehicles
-Average Electric Range — Average distance vehicles can travel on battery power
-
-<b>Dashboard Visualizations</b>
-
-Vehicles by Model Year
-Chart Type: Line Chart
-Purpose: Shows the growth trend of electric vehicle adoption over time.
-
-Vehicles by State
-Chart Type: Map
-Purpose: Displays geographic distribution of electric vehicles.
-
-Top 10 Vehicles by Make
-Chart Type: Bar Chart
-Purpose: Identifies manufacturers with the highest number of vehicles.
-
-CAFV Eligibility Distribution
-Chart Type: Pie / Donut Chart
-Purpose: Shows the proportion of vehicles eligible for clean fuel programs.
-
-Features
-Filters
-
-Filters allow users to view specific subsets of data.
-
-Examples:
-
-State
-Model Year
-Vehicle Type
-Manufacturer
-Parameters
-
-Parameters allow dynamic control of dashboard behavior.
-
-Examples:
-
-Year selection
-Top N manufacturers
-Metric selection
-Tools and Technologies
 Tableau
+Microsoft Excel
+Data Cleaning and Transformation
 Data Visualization
 Business Intelligence
-Dashboard Design
-Descriptive Analytics
-Key Insights
-Electric vehicle adoption has increased significantly over recent years
-Battery Electric Vehicles represent a major share of EV registrations
-Certain manufacturers dominate the EV market
-Adoption levels vary across geographic regions
+Dashboard Development
 
-<b>Project Structure</b>
+🖼️ Dashboard Preview
+
+Electric Vehicle Dashboard
+
+![Dashboard Screenshot](EV.png)
+
+📌 Business Value
+
+Supports monitoring of electric vehicle adoption trends
+Helps identify leading vehicle manufacturers
+Improves understanding of regional adoption patterns
+Enables data-driven planning and reporting
+Assists stakeholders in evaluating clean energy adoption
+
+🚀 Future Improvements
+
+Predictive analysis for future electric vehicle adoption
+Integration of real-time vehicle registration data
+Analysis of charging infrastructure availability
+Advanced analytics using machine learning models
+
+📂 Project Structure
 
 Electric-Vehicle-Analysis/
 │
 ├── Electric_Vehicle_Analysis.twb
-├── Dataset/
-├── Dashboard_Screenshots/
+├── ev_dataset.xlsx
+├── dashboard_screenshot.png
 └── README.md
 
-<b>Conclusion</b>
+👤 Author
 
-This project demonstrates the ability to transform raw vehicle data into meaningful visual insights using an interactive dashboard. It highlights practical skills in KPI development, data visualization, and dashboard interactivity.
-
-<b>Future Improvements</b>
-
-Add predictive analytics for EV adoption forecasting
-Integrate real-time data updates
-Include charging infrastructure analysis
-Apply advanced analytics techniques
+Hiba Fathima Y
+Data Analyst / Data Science Enthusiast
