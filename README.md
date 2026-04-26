@@ -11,7 +11,7 @@ Compare Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PH
 Identify top vehicle manufacturers and high-adoption regions
 Evaluate vehicle performance using electric range metrics
 Enable interactive exploration of data through dashboard controls
-<b>Dataset</b>
+Dataset
 
 The dataset includes structured records of electric vehicles with attributes such as:
 
@@ -33,7 +33,7 @@ Total Vehicles — Total number of electric vehicles in the dataset
 Total BEV — Number of Battery Electric Vehicles
 Total PHEV — Number of Plug-in Hybrid Electric Vehicles
 Average Electric Range — Average distance vehicles can travel on battery power
-<b>Dashboard Visualizations</b>
+Dashboard Visualizations
 Vehicles by Model Year
 
 Chart Type: Line Chart
@@ -92,11 +92,11 @@ Electric-Vehicle-Analysis/
 ├── Dataset/
 ├── Dashboard_Screenshots/
 └── README.md
-Conclusion
+<b>Conclusion</b>
 
 This project demonstrates the ability to transform raw vehicle data into meaningful visual insights using an interactive dashboard. It highlights practical skills in KPI development, data visualization, and dashboard interactivity.
 
-Future Improvements
+<b>Future Improvements</b>
 Add predictive analytics for EV adoption forecasting
 Integrate real-time data updates
 Include charging infrastructure analysis
