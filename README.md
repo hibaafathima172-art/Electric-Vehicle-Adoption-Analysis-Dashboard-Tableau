@@ -1,17 +1,17 @@
 # Electric-Vehicle-Adoption-Analysis-Dashboard-Tableau
-Overview
+<b>Overview</b>
 
 This project presents an interactive dashboard developed to analyze electric vehicle (EV) adoption patterns using structured vehicle data. The dashboard visualizes trends in vehicle growth, manufacturer distribution, vehicle types, and geographic patterns to support data-driven insights.
 
 The analysis focuses on descriptive analytics using key performance indicators (KPIs) and interactive visualizations.
 
-Objectives
+<b>Objectives</b>
 Analyze electric vehicle adoption trends over time
 Compare Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV)
 Identify top vehicle manufacturers and high-adoption regions
 Evaluate vehicle performance using electric range metrics
 Enable interactive exploration of data through dashboard controls
-Dataset
+<b>Dataset</b>
 
 The dataset includes structured records of electric vehicles with attributes such as:
 
@@ -33,7 +33,7 @@ Total Vehicles — Total number of electric vehicles in the dataset
 Total BEV — Number of Battery Electric Vehicles
 Total PHEV — Number of Plug-in Hybrid Electric Vehicles
 Average Electric Range — Average distance vehicles can travel on battery power
-Dashboard Visualizations
+<b>Dashboard Visualizations</b>
 Vehicles by Model Year
 
 Chart Type: Line Chart
