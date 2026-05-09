@@ -54,6 +54,10 @@ Improves understanding of regional adoption patterns
 Enables data-driven planning and reporting
 Assists stakeholders in evaluating clean energy adoption
 
+## 🔗 Interactive Dashboard
+
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/hiba.fathima.y/viz/Electric_Vehicle_Analysis_17783441836660/Dashboard1?publish=yes)
+
 🚀 Future Improvements
 
 Predictive analysis for future electric vehicle adoption
